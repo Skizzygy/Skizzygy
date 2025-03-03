@@ -5,8 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Setting up an Active Directory Network](https://github.com/Skizzygy/ActiveDirectorySetup)
 - <b>osTicket</b>
-  - [Link 1]
+  - [Installing and Setting Up osTicket](https://github.com/Skizzygy/Setting-Up-osTicket/)
   - [Link 2]
-  - [Link 3]
 
 
