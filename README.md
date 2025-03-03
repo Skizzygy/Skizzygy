@@ -1,4 +1,4 @@
-<h1>Hello, I'm Steven, I just got my IT course certificate from Course Careers!</h1>
+<h1>Hello.</h1>
 
 <h2>Information Technology Projects:</h2>
 
