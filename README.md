@@ -2,8 +2,8 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Project 1</b>
-  - [Link 1]
+- <b>Microsoft Azure</b>
+  - [Setting up an Active Directory Network](https://github.com/Skizzygy/ActiveDirectorySetup)
   - [Link 2]
   - [Link 3]
 - <b>Project 2</b>
